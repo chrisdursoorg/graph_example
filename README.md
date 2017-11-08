@@ -1,3 +1,3 @@
 # graph_example
 
-![Alt](./Untitled Diagram.png)
+![Alt](./untitled_diagram.png)
